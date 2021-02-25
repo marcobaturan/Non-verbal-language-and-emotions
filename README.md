@@ -16,8 +16,14 @@ It is open source and collaboration is expected from various people to extend th
 It has to be kept in mind that the extension of the dataset has to be organised and discussed directly among all participants, thus reducing cognitive bias in the dataset. 
 
 ### Sources and references:
+
 [The Techeable Machine](https://teachablemachine.withgoogle.com/)
+
 [Paul Ekman](https://www.paulekman.com/)
+
 [Vanessa Van Edwars](https://en.wikipedia.org/wiki/Vanessa_Van_Edwards)
+
 [Allan Pease](https://en.wikipedia.org/wiki/Allan_Pease)
+
 [non verbal language](https://en.wikipedia.org/wiki/Body_language)
+
