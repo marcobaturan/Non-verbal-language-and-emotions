@@ -1,0 +1,12 @@
+0 neutral
+1 happy
+2 sad
+3 Angry
+4 disgust
+5 surprise
+6 Comptent
+7 amusement
+8 pain
+9 desire
+10 dissapointment
+11 doubt
