@@ -2,6 +2,12 @@ from keras.models import load_model  # TensorFlow is required for Keras to work
 import cv2  # Install opencv-python
 import numpy as np
 
+"""Emotion vide
+
+    This test checks that the model loads correctly, 
+    performs an emotion prediction from webcam and checks 
+    if the prediction is successful.
+"""
 # Disable scientific notation for clarity
 np.set_printoptions(suppress=True)
 
