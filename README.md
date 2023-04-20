@@ -1,6 +1,12 @@
 # Non-verbal language project
-Project for develop a set of models and scripts inside of framework 
-oriented to human emotions recognition in a whole system or specific parts.
+    Project for develop a set of models and scripts inside of framework 
+    oriented to human emotions recognition in a whole system or specific parts.
+
+## Acknowledgement
+Acknowledgement for the people who provided pictures and feedback for improvements in this project:
+* EDLRL
+* Sideloading group
+* Roman Sitelew
 
 ## Description
 This project consists of three well-defined objectives:
@@ -17,15 +23,25 @@ It is open source and collaboration is expected from various people to extend th
 
 It has to be kept in mind that the extension of the dataset has to be organised and discussed directly among all participants, thus reducing cognitive bias in the dataset. 
 
+## Installation
+- virtualenv env --python=python==3.10.6
+- $ pip install -r requirements.txt
+
+## testing on:
+- Python 3.10.6
+- Ubuntu 22.04.2 LTS
+- HP Laptop 15s-eq1xxx
+- AMD® Ryzen 7 4700u with radeon graphics × 8
+
 ### Sources and references:
 
-[The Techeable Machine](https://teachablemachine.withgoogle.com/)
-
-[Paul Ekman](https://www.paulekman.com/)
-
-[Vanessa Van Edwars](https://en.wikipedia.org/wiki/Vanessa_Van_Edwards)
-
-[Allan Pease](https://en.wikipedia.org/wiki/Allan_Pease)
-
-[non verbal language](https://en.wikipedia.org/wiki/Body_language)
+* [The Techeable Machine](https://teachablemachine.withgoogle.com/)
+    
+* [Paul Ekman](https://www.paulekman.com/)
+    
+* [Vanessa Van Edwars](https://en.wikipedia.org/wiki/Vanessa_Van_Edwards)
+    
+* [Allan Pease](https://en.wikipedia.org/wiki/Allan_Pease)
+    
+* [non verbal language](https://en.wikipedia.org/wiki/Body_language)
 
