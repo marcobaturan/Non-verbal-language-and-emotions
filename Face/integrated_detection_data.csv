@@ -1,0 +1,389 @@
+timestamp,gesture,posture,num_faces,emotion
+2024-09-04 12:46:32.884904,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:33.226860,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:33.346585,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:33.503801,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:33.655413,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:33.783235,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:33.932540,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:34.073936,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:34.218406,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:34.359559,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:34.516518,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:34.703069,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:34.819265,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:34.978760,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:35.150005,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:35.340590,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:35.531451,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:35.663240,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:35.793514,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:35.906478,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:36.042083,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:36.191198,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:36.331743,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:36.490392,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:36.634151,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:36.771294,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:36.893143,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:37.055142,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:37.207691,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:37.388894,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:37.566789,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:37.734291,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:37.886172,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:38.038177,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:38.206391,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:38.392374,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:38.547414,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:38.706144,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:38.866544,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:39.052898,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:39.241826,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:39.429503,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:39.627801,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:39.815526,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:39.978170,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:40.166413,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:40.348215,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:40.538576,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:40.697453,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:40.842062,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:40.991869,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:41.157008,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:41.341306,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:41.534848,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:41.730726,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:41.871029,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:42.034800,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:42.222121,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:42.417813,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:42.601569,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:42.786641,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:42.973073,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:43.163419,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:43.353246,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:43.542976,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:43.741126,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:43.933666,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:44.129884,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:44.325817,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:46:44.511638,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:46:44.661701,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:44.843504,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:45.040908,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:45.191319,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:46:45.383347,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:45.571671,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:45.765276,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:45.955906,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:46.146835,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:46.338744,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:46.529932,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:46.725080,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:46.891111,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:46:47.077339,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:47.252545,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:47.443412,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:47.633176,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:47.800273,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:47.960894,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:48.149361,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:48.335132,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:48.508216,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:48.702016,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:48.881759,No Hand Detected,Sitting,0,Neutral
+2024-09-04 12:46:49.066735,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:49.210184,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:49.384982,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:49.571958,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:49.757754,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:49.921951,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:50.078854,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:50.273899,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:50.431056,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:50.620878,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:50.789085,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:50.932911,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:51.124147,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:51.299562,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:46:51.400995,No Hand Detected,No Pose Detected,0,Neutral
+2024-09-04 12:46:51.522496,No Hand Detected,No Pose Detected,0,Neutral
+2024-09-04 12:46:51.605798,No Hand Detected,No Pose Detected,0,Neutral
+2024-09-04 12:46:51.739167,No Hand Detected,No Pose Detected,0,Neutral
+2024-09-04 12:46:51.855530,No Hand Detected,No Pose Detected,0,Neutral
+2024-09-04 12:46:51.952949,No Hand Detected,No Pose Detected,0,Neutral
+2024-09-04 12:46:52.053896,No Hand Detected,No Pose Detected,0,Neutral
+2024-09-04 12:46:52.183651,No Hand Detected,No Pose Detected,0,Neutral
+2024-09-04 12:46:52.313615,No Hand Detected,No Pose Detected,0,Neutral
+2024-09-04 12:46:52.569509,No Hand Detected,No Pose Detected,0,Neutral
+2024-09-04 12:46:52.821996,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:46:52.986518,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:46:53.122329,No Hand Detected,No Pose Detected,0,Neutral
+2024-09-04 12:46:53.408587,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:46:53.590909,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:53.751290,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:53.919786,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:54.078279,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:54.274559,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:54.407148,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:54.603824,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:54.788226,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:54.970200,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:55.122323,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:55.289015,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:55.474997,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:55.668756,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:55.834927,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:55.982576,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:56.114442,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:56.253151,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:56.430888,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:56.587557,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:56.750115,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:56.884727,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:57.029709,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:57.201026,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:57.386194,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:57.585163,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:57.780197,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:57.973075,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:58.139910,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:58.301791,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:58.492484,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:58.685011,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:58.881319,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:59.074854,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:59.264393,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:59.458056,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:59.643953,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:59.834642,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:46:59.998738,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:00.175249,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:00.339690,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:00.493291,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:00.656830,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:00.835774,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:01.010094,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:01.197449,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:01.385492,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:01.574205,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:01.737287,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:01.882374,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:02.047437,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:02.239484,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:02.430870,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:02.620119,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:02.816695,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:02.978857,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:03.164696,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:03.360407,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:03.551316,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:03.735700,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:03.919161,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:04.094839,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:04.258040,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:04.453893,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:04.610973,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:04.772511,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:04.950547,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:05.122300,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:05.310951,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:05.484920,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:05.676813,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:05.871781,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:06.062850,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:06.257932,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:06.454202,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:06.637657,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:06.784397,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:06.976438,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:07.168729,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:07.304461,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:07.467456,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:07.659890,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:07.852301,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:07.994429,Unknown Gesture,Sitting,2,Neutral
+2024-09-04 12:47:08.156859,Unknown Gesture,Sitting,2,Neutral
+2024-09-04 12:47:08.320614,Unknown Gesture,Sitting,2,Neutral
+2024-09-04 12:47:08.495362,Unknown Gesture,Sitting,2,Neutral
+2024-09-04 12:47:08.640665,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:08.802213,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:08.960112,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:09.119879,Unknown Gesture,Sitting,2,Neutral
+2024-09-04 12:47:09.279076,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:09.442212,Unknown Gesture,Sitting,2,Neutral
+2024-09-04 12:47:09.634746,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:09.827434,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:09.967163,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:10.127238,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:10.302539,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:10.490497,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:10.654527,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:10.794941,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:10.939935,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:11.104801,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:11.285647,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:11.476656,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:11.633062,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:11.774682,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:11.954571,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:12.147302,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:12.304835,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:12.447808,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:12.601447,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:12.781542,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:12.955176,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:13.084995,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:13.265150,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:13.431716,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:13.612507,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:13.783782,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:13.941420,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:14.125852,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:14.318653,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:14.515221,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:14.696432,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:14.870786,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:15.058261,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:15.246612,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:15.424042,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:15.615149,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:15.795984,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:15.953689,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:16.078556,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:16.208239,Unknown Gesture,Sitting,0,Neutral
+2024-09-04 12:47:16.352582,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:16.500397,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:16.642900,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:16.780827,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:16.924448,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:17.060328,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:17.209676,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:17.357516,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:17.532570,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:17.712891,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:17.881923,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:18.074714,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:18.263083,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:18.457186,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:18.648363,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:18.841939,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:19.000091,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:19.165929,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:19.358478,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:19.503617,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:19.666223,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:19.853119,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:20.045158,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:20.233283,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:20.417793,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:20.556415,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:20.747330,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:20.926872,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:21.122868,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:21.318600,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:21.478416,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:21.668230,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:21.861406,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:22.026600,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:22.157373,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:22.303246,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:22.452980,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:22.595646,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:22.708012,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:22.818303,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:22.992518,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:23.177225,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:23.358201,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:23.515991,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:23.710278,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:23.897477,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:24.059547,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:24.256573,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:24.438791,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:24.601284,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:24.779777,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:24.948631,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:25.144352,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:25.336824,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:25.489584,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:25.676410,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:25.848431,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:26.013945,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:26.199945,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:26.385003,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:26.539928,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:26.725142,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:26.910254,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:27.086115,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:27.275035,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:27.446552,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:27.638467,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:27.830697,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:28.023752,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:28.210512,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:28.403971,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:28.563466,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:28.719610,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:28.911502,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:29.100738,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:29.263665,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:29.456156,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:29.642653,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:29.835086,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:30.006663,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:30.168176,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:30.350837,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:30.528789,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:30.708593,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:30.903589,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:31.095055,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:31.282899,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:31.443259,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:31.595229,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:31.791425,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:31.973570,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:32.150472,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:32.339063,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:32.493690,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:32.663752,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:32.854408,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:33.015029,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:33.184785,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:33.373503,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:33.555775,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:33.728140,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:33.901222,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:34.090361,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:34.277180,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:34.467279,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:34.656675,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:34.831320,Thumbs Up,Sitting,1,Neutral
+2024-09-04 12:47:34.986108,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:35.161625,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:35.324866,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:35.517726,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:35.701169,Unknown Gesture,Sitting,1,Neutral
+2024-09-04 12:47:35.858744,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:35.999477,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:36.143197,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:36.291881,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:36.435743,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:36.598488,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:36.760363,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:36.912858,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:37.041851,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:37.159002,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:37.269571,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:37.388877,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:37.505238,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:37.658652,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:37.804024,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:47:37.986976,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:38.141555,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:47:38.278263,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:38.432988,No Hand Detected,Sitting,2,Neutral
+2024-09-04 12:47:38.624866,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:38.800473,No Hand Detected,Sitting,1,Neutral
+2024-09-04 12:47:38.963986,No Hand Detected,Sitting,1,Neutral
