@@ -27,6 +27,9 @@ It has to be kept in mind that the extension of the dataset has to be organised 
 - virtualenv env --python=python==3.10.6
 - $ pip install -r requirements.txt
 
+## Execution
+- python whole_body_record_data_video.py
+
 ## testing on:
 - Python 3.10.6
 - Ubuntu 22.04.2 LTS
