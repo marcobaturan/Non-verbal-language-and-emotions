@@ -1,6 +1,6 @@
 numpy~=1.23.5
-keras~=2.12.0
-tensorflow~=2.12.0
+keras==2.13.1
+tensorflow==2.13.0
 Pillow~=9.5.0
 
 opencv-python~=4.7.0.72
@@ -25,7 +25,6 @@ h5py==3.11.0
 idna==3.8
 jax==0.4.30
 jaxlib==0.4.30
-keras==2.12.0
 kiwisolver==1.4.6
 libclang==18.1.1
 Markdown==3.7
@@ -58,10 +57,9 @@ rsa==4.9
 scipy==1.14.1
 six==1.16.0
 sounddevice==0.5.0
-tensorboard==2.12.3
+tensorboard==2.13.0
 tensorboard-data-server==0.7.2
-tensorflow==2.12.1
-tensorflow-estimator==2.12.0
+tensorflow-estimator==2.13.0
 tensorflow-io-gcs-filesystem==0.37.1
 termcolor==2.4.0
 typing_extensions==4.5.0

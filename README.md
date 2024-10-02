@@ -24,17 +24,35 @@ It is open source and collaboration is expected from various people to extend th
 It has to be kept in mind that the extension of the dataset has to be organised and discussed directly among all participants, thus reducing cognitive bias in the dataset. 
 
 ## Installation
+
+If on Mac OS:
+- pyenv install 3.10.6
+- cd to the dir where you have cloned this repo
+- pyenv local 3.10.6
+
+Next steps (on both Ubuntu and Mac OS):
+
 - virtualenv env --python=python==3.10.6
 - $ pip install -r requirements.txt
 
 ## Execution
+- cd Face
 - python whole_body_record_data_video.py
+
+Note: if the screen is black, try to change the camera index in the code. 
+This line in whole_body_record_data_video.py:
+```
+camera = cv2.VideoCapture(0)
+```
+
 
 ## testing on:
 - Python 3.10.6
 - Ubuntu 22.04.2 LTS
 - HP Laptop 15s-eq1xxx
 - AMD® Ryzen 7 4700u with radeon graphics × 8
+
+It can also run at least on Mac OS Sonoma 14.7 (M1).
 
 ### Sources and references:
 
